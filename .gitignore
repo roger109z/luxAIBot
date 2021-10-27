@@ -1,1 +1,5 @@
-
+lux/*
+py/*
+__init__.py
+agent.log
+__pycache__/*
